@@ -1,0 +1,16 @@
+body{
+  background: #1c1c1c;
+  color: #fff;
+}
+
+h1{
+  font-size: 72px;
+  text-align: center;
+  font-family: Satisfy;
+  position: absolute;
+
+
+  top: 38%;
+  left: 30%;
+  /* transform: translate(-50%,-5); */
+}
